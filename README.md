@@ -1,0 +1,2 @@
+# EmployeeManagmentJavaConsole
+Java RMI application 
