@@ -1,0 +1,16 @@
+Fri Aug 30 09:35:57 CAT 2019 : Apache Derby Network Server - 10.11.1.2 - (1629631) started and ready to accept connections on port 1527
+----------------------------------------------------------------
+Fri Aug 30 09:35:58 CAT 2019:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.11.1.2 - (1629631): instance a816c00e-016c-e173-af43-ffffc6212479 
+on database directory C:\Users\Tlholo Makhene\Documents\RMI\EmployeeManagement\dbEmployeeManagement with class loader sun.misc.Launcher$AppClassLoader@6f94fa3e 
+Loaded from file:/C:/Program%20Files/Java/jdk1.8.0_112/db/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_112-b15
+user.dir=C:\Program Files\Java\jdk1.8.0_112\db
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=C:\Users\Tlholo Makhene\Documents\RMI\EmployeeManagement
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri Aug 30 09:54:34 CAT 2019: Shutting down Derby engine
